@@ -1,97 +1,70 @@
-<div align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
-</div>
+<img align="right" height="270px" alt="developer" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<img src="https://i.ibb.co/fqyK7Cy/blue-tech-banner.jpg" width="100%">
+### 👋 ¡Hola! Soy **Jose Luis Huaman Huaman**  
+> 🎓 Estudiante de **Computación e Informática** | 💻 Apasionado por **SQL Server**, **Python**, **.NET**, **C#**, **Excel**, **Figma** y el **Diseño UX/UI**
 
-<h2 align="center">👋 ¡Hola, soy <b>José Luis Huamán Huamán</b>!</h2>
+---
+
+- 🌱 Actualmente aprendiendo **desarrollo full stack** y **análisis de datos**
+- 💬 Pregúntame sobre **bases de datos, interfaces en Swing, o diseño UX/UI**
+- 📫 Contáctame: **[LinkedIn](https://www.linkedin.com)** *(agrega tu enlace real)*
+- ⚙️ “Construyendo proyectos que mezclan código y diseño”
+- <img src="https://komarev.com/ghpvc/?username=luis-program-coder&label=Profile%20views&color=brightgreen&style=plastic" alt="profile views" />
+  <a href="https://github.com/luis-program-coder?tab=followers"><img src="https://img.shields.io/github/followers/luis-program-coder?label=Followers&style=social" alt="GitHub Badge"></a>
+
+---
 
 <p align="center">
-  💻 Estudiante de <b>Computación e Informática</b> en Cibertec <br>
-  🚀 Apasionado por el <b>desarrollo de software, bases de datos y diseño UX/UI</b> <br>
-  🌱 Siempre aprendiendo nuevas tecnologías
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>GitHub Activity</b></i>
+</p>
+
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luis-program-coder&langs_count=10&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=luis-program-coder&show_icons=true&locale=es&theme=tokyonight" alt="GitHub Stats" width="410"/>
+</p>
+
+<br><br><br><br><br><br><br><br>
+
+---
+
+## 🧠 Tecnologías y Herramientas
+
+<div>
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="UX/UI" src="https://img.shields.io/badge/UX%2FUI-000000?style=for-the-badge&logo=adobe&logoColor=white"/>
+</div>
+
+---
+
+## ⚙️ Herramientas de Desarrollo
+
+<div>
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img alt="VSCode" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
+---
+
+<p align="center">
+ <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<b>GitHub Trophies</b>
+</p>
+<br>
+
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=luis-program-coder&layout=compact&theme=tokyonight" alt="GitHub Trophies" />
+ </a>
 </p>
 
 ---
 
-## 🧠 Sobre mí
-
-- 🎓 Estudiante de Computación e Informática en **Cibertec**  
-- 🧩 Me gusta combinar la **lógica del backend** con la **creatividad del frontend**  
-- 💡 Me enfoco en construir soluciones limpias, escalables y visualmente atractivas  
-- ⚙️ Actualmente aprendiendo **React, .NET y SQL avanzado**  
-- ✨ Apasionado por **Figma, UX/UI** y la mejora continua del diseño  
-
----
-
-## 🎯 Objetivo Profesional
-
-Desarrollar aplicaciones modernas y funcionales integrando **bases de datos, backend y experiencia de usuario**,  
-con buenas prácticas, documentación y enfoque en la calidad del código.
-
----
-
-## 🧰 Lenguajes y Tecnologías
-
-#### 🖥️ Lenguajes de Programación  
-![C#](https://img.shields.io/badge/C%23-68217A.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-#### ⚛️ Frameworks y Librerías  
-![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### 🎨 Diseño UX/UI  
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-
-#### 🧮 Herramientas y Software  
-![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luis-program-coder&theme=react&show_icons=true&hide_border=true&border_radius=15&include_all_commits=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luis-program-coder&theme=react&hide_border=true&border_radius=15" width="48%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luis-program-coder&theme=react-dark&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" width="90%">
-</div>
-
----
-
-## 🏆 Reconocimientos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luis-program-coder&theme=onestar&no-frame=true&margin-w=8&margin-h=8">
-</div>
-
----
-
-## 🌐 Conecta conmigo
-
-<div align="center">
-  <a href="mailto:josehuamanhuaman@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jose-luis-huaman-huaman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/luis-program-coder"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
----
-
-<h4 align="center">✨ “El código bien estructurado es la mejor carta de presentación de un desarrollador.” ✨</h4>
-
-<div align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
-</div>
+🧩 *"La tecnología no solo se aprende, se vive construyendo."* 🚀  
