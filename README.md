@@ -1,21 +1,22 @@
 <img align="right" height="270px" alt="developer" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### 👋 ¡Hola! Soy **Jose Luis Huaman Huaman**  
-> 🎓 Estudiante de **Computación e Informática** | 💻 Apasionado por **SQL Server**, **Python**, **.NET**, **C#**, **Excel**, **Figma** y el **Diseño UX/UI**
+> 🎓 Estudiante de **Desarrollo de Software en Cibertec** | 💻 Apasionado por **.NET, SQL Server, Python, C#, Excel, Figma y UX/UI Design**  
+> 💡 Enfocado en crear soluciones prácticas y visuales, uniendo la lógica del backend con la creatividad del frontend.
 
 ---
 
-- 🌱 Actualmente aprendiendo **desarrollo full stack** y **análisis de datos**
-- 💬 Pregúntame sobre **bases de datos, interfaces en Swing, o diseño UX/UI**
-- 📫 Contáctame: **[LinkedIn](https://www.linkedin.com)** *(agrega tu enlace real)*
-- ⚙️ “Construyendo proyectos que mezclan código y diseño”
+- 🌱 Actualmente aprendiendo **tecnologías backend con .NET y análisis de datos con SQL Server y Python**
+- 💬 Me gusta trabajar en **interfaces con Swing, diseño UX/UI en Figma y automatización en Excel**
+- 📫 Conéctate conmigo en **[LinkedIn](https://www.linkedin.com)** *(agrega tu enlace real)*
+- 🧭 “Combino el desarrollo, el diseño y el análisis para crear software funcional y atractivo”
 - <img src="https://komarev.com/ghpvc/?username=luis-program-coder&label=Profile%20views&color=brightgreen&style=plastic" alt="profile views" />
   <a href="https://github.com/luis-program-coder?tab=followers"><img src="https://img.shields.io/github/followers/luis-program-coder?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ---
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>GitHub Activity</b></i>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Actividad en GitHub</b></i>
 </p>
 
 <p>
@@ -28,7 +29,7 @@
 
 ---
 
-## 🧠 Tecnologías y Herramientas
+## 🧠 Tecnologías y Lenguajes
 
 <div>
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -67,4 +68,4 @@
 
 ---
 
-🧩 *"La tecnología no solo se aprende, se vive construyendo."* 🚀  
+🧩 *"El código es mi herramienta, el diseño mi lenguaje, y el aprendizaje mi motor."* 🚀  
