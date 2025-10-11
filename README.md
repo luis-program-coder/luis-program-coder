@@ -1,15 +1,51 @@
 <img align="right" height="270px" alt="developer" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### 👋 ¡Hola! Soy **Jose Luis Huaman Huaman**  
-> 🎓 Estudiante de **Desarrollo de Software en Cibertec** | 💻 Apasionado por **.NET, SQL Server, Python, C#, Excel, Figma y UX/UI Design**  
-> 💡 Enfocado en crear soluciones prácticas y visuales, uniendo la lógica del backend con la creatividad del frontend.
+# 👋 Hola, soy Luis Huamán
+🎓 Estudiante de **Computación e Informática**  
+💻 Apasionado por **SQL Server**, **Python**, **.NET**, **C#**, **Excel**, **Figma** y **UX/UI Design**.  
+🚀 Busco crecer como desarrollador backend y diseñador de interfaces profesionales.
 
 ---
 
-- 🌱 Actualmente aprendiendo **tecnologías backend con .NET y análisis de datos con SQL Server y Python**
-- 💬 Me gusta trabajar en **interfaces con Swing, diseño UX/UI en Figma y automatización en Excel**
-- 📫 Conéctate conmigo en **[LinkedIn](https://www.linkedin.com)** *(agrega tu enlace real)*
-- 🧭 “Combino el desarrollo, el diseño y el análisis para crear software funcional y atractivo”
+## 🧠 Tecnologías y herramientas
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX/UI-000000?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
+---
+
+## 📂 Proyectos destacados
+| Proyecto | Descripción | Tecnologías |
+|-----------|--------------|--------------|
+| 🧾 Sistema de Nóminas | Gestión de empleados, departamentos y sueldos | Java, Swing, SQL Server |
+| 🍽️ Restaurante DB | Base de datos relacional con triggers y procedimientos | SQL Server |
+| 🧩 Torre de Hanoi GUI | Juego recursivo con interfaz gráfica | Java, Swing |
+| 💬 CRM Escala | Envío automatizado de mensajes y manejo de leads | .NET, C#, APIs |
+
+---
+
+## 📊 Estadísticas de GitHub
+![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luis-program-coder&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-program-coder&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Contáctame
+- 📧 **Correo:** josehuaman.dev@gmail.com *(puedes cambiarlo por el tuyo real)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- 💻 Portafolio web: *(si tienes uno o planeas crearlo pronto)*
+
+---
+
+## 🌱 En progreso
+🧩 Aprendiendo sobre diseño UI avanzado y patrones de arquitectura .NET  
+📈 Profundizando en optimización SQL y automatización con Python  
+🎯 Explorando desarrollo fullstack con APIs REST
+
 - <img src="https://komarev.com/ghpvc/?username=luis-program-coder&label=Profile%20views&color=brightgreen&style=plastic" alt="profile views" />
   <a href="https://github.com/luis-program-coder?tab=followers"><img src="https://img.shields.io/github/followers/luis-program-coder?label=Followers&style=social" alt="GitHub Badge"></a>
 
