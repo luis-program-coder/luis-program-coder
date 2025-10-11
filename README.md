@@ -35,9 +35,8 @@
 ---
 
 ## 📬 Contáctame
-- 📧 **Correo:** josehuaman.dev@gmail.com *(puedes cambiarlo por el tuyo real)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- 💻 Portafolio web: *(si tienes uno o planeas crearlo pronto)*
+- 📧 Correo:luiahuaman179@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil
 
 ---
 
