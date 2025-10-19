@@ -36,7 +36,7 @@
 
 ## 📬 Contáctame
 - 📧 Correo:luiahuaman179@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil
+- 💼 [LinkedIn][(https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/joseluishuaman/)
 
 ---
 
