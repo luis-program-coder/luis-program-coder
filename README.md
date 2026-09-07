@@ -22,7 +22,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| 🌐 [Portafolio personal](https://github.com/luis-program-coder/portafolio) | Sitio web personal con mi perfil y proyectos | HTML, CSS, JavaScript |
+| 🌐 [Portafolio personal](file:///C:/Users/User/Downloads/index%20(1).html) | Sitio web personal con mi perfil y proyectos | HTML, CSS, JavaScript |
 | 🗄️ [SQL Server — práctica](https://github.com/luis-program-coder/sql) | Ejercicios y consultas entrando a SQL Server | SQL Server |
 
 *(Esta tabla crece según voy terminando proyectos reales — prefiero mostrar poco pero verdadero.)*
